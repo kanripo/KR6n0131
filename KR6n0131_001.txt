@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:58:58.783519
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:39
 #+TITLE: 八識規矩補註
 #+PROPERTY: CBETA_ID T45n1865
 #+PROPERTY: ID KR6n0131
@@ -14,7 +14,7 @@
 ¶
 No.1865¶
 
-八識規矩補註序
+* 八識規矩補註序
 :PROPERTIES:
 :head: 八識規矩補註序
 :END:
