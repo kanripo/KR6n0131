@@ -1,24 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:58:58.783519
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:39
 #+TITLE: 八識規矩補註
 #+PROPERTY: CBETA_ID T45n1865
 #+PROPERTY: ID KR6n0131
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 45, No. 1865
 #+PROPERTY: VOL 45
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6n0131_T_000-0467c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0131_T_001-0467c> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1865¶
+No. 1865¶
 
-八識規矩補註序
-:PROPERTIES:
-:head: 八識規矩補註序
-:END:
-¶
+* 八識規矩補註序¶
 ¶
 
 八識頌凡八章。文略而義深。乃集施頌體製¶
@@ -48,8 +44,7 @@ No.1865¶
 ¶
 ¶
 ¶
-
- 上八識規矩補註卷上¶
+八識規矩補註卷上¶
 ¶
 明魯菴法師普泰補註¶
 

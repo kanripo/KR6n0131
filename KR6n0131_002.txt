@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:58:58.812913
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:39
 #+TITLE: 八識規矩補註
 #+PROPERTY: CBETA_ID T45n1865
 #+PROPERTY: ID KR6n0131
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 45, No. 1865
 #+PROPERTY: VOL 45
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6n0131_T_000-0467c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0131_T_002-0472c> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 下八識規矩補註卷下¶
+八識規矩補註卷下¶
 ¶
 明魯庵法師普泰補註¶
 
@@ -343,11 +342,7 @@
 轉前五第八果中圓。¶
 八識規矩補註(終)¶
 
-六離合釋法式
-:PROPERTIES:
-:head: 六離合釋法式
-:END:
-¶
+* 六離合釋法式¶
 
 西方釋名有其六種。一依主。二持業。三有財。¶
 四相違。五帶數。六隣近。以此六種有離合故。¶
